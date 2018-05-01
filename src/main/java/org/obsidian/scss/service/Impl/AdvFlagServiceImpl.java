@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.List;
 
 /**
- * Created by hp on 2017/7/18.
+ * Created by mobing  on 2017/7/18.
  */
 @Service
 public class AdvFlagServiceImpl implements AdvFlagService {

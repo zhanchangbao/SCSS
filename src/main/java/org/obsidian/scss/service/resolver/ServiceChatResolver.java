@@ -18,7 +18,7 @@ import java.lang.reflect.Type;
 import java.util.Date;
 
 /**
- * Created by Lee on 2017/7/15.
+ * Created by mobing  on 2017/7/15.
  */
 @Service
 public class ServiceChatResolver implements ContentResolver{

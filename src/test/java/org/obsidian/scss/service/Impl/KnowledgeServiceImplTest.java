@@ -22,7 +22,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * Created by Lee on 2017/7/10.
+ * Created by mobing  on 2017/7/10.
  */
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration("classpath:spring/spring-*.xml")

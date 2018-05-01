@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.lang.reflect.Type;
 
 /**
- * Created by Administrator on 2017/7/24.
+ * Created by mobing  on 2017/7/24.
  */
 @Service
 public class CommonLanguageClickResolver implements ContentResolver {

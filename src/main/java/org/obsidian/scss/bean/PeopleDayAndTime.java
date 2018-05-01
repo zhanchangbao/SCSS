@@ -6,7 +6,7 @@ import org.obsidian.scss.entity.DayAndTime;
 import java.util.List;
 
 /**
- * Created by hp on 2017/7/15.
+ * Created by mobing  on 2017/7/15.
  * 客服信息和客服工作绩效
  */
 public class PeopleDayAndTime {

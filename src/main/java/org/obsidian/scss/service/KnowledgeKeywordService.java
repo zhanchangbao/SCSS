@@ -6,7 +6,7 @@ import org.obsidian.scss.entity.Knowledge;
 import org.obsidian.scss.entity.KnowledgeKeyword;
 
 /**
- * Created by hp on 2017/7/16.
+ * Created by mobing  on 2017/7/16.
  */
 public interface KnowledgeKeywordService {
     List<KnowledgeKeyword> selectKeywordId(int  knowledgeId);

@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.OperationUser;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/11.
+ * Created by mobing  on 2017/7/11.
  */
 public interface OperationUserService {
 

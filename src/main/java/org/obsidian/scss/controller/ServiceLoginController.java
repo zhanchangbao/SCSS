@@ -18,7 +18,7 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * Created by Lee on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 @Controller
 @RequestMapping(value ="/" )

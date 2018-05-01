@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.*;
 
 /**
- * Created by Lee on 2017/7/13.
+ * Created by mobing  on 2017/7/13.
  */
 @Service
 public class ConversationServiceImpl implements ConversationService {

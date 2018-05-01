@@ -3,7 +3,7 @@ package org.obsidian.scss.entity;
 import java.util.*;
 
 /**
- * Created by hp on 2017/9/6.
+ * Created by mobing  on 2017/9/6.
  */
 public class ClientAndImlInfo {
     private Integer clientId;

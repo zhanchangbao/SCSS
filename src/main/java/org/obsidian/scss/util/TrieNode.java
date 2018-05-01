@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by Lee on 2017/7/9.
+ * Created by mobing  on 2017/7/9.
  * 字典树节点
  */
 public class TrieNode {

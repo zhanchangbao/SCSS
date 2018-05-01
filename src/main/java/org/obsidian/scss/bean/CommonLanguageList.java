@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.CommonLanguage;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/24.
+ * Created by mobing  on 2017/7/24.
  */
 public class CommonLanguageList {
     private List<CommonLanguage> commonLanguageList;

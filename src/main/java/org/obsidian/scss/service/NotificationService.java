@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.Notification;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/12.
+ * Created by mobing  on 2017/7/12.
  */
 public interface NotificationService {
 

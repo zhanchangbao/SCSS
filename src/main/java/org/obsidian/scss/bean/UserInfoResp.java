@@ -1,7 +1,7 @@
 package org.obsidian.scss.bean;
 
 /**
- * Created by Lee on 2017/7/14.
+ * Created by mobing  on 2017/7/14.
  */
 public class UserInfoResp {
 

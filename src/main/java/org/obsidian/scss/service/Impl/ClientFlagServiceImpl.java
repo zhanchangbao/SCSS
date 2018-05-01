@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * Created by Administrator on 2017/7/11.
+ * Created by mobing  on 2017/7/11.
  */
 @Service
 public class ClientFlagServiceImpl implements ClientFlagService {

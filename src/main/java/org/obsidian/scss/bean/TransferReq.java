@@ -1,7 +1,7 @@
 package org.obsidian.scss.bean;
 
 /**
- * Created by Lee on 2017/7/15.
+ * Created by mobing  on 2017/7/15.
  */
 public class TransferReq {
 

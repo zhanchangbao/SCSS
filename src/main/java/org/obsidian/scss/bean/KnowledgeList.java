@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.Knowledge;
 import java.util.List;
 
 /**
- * Created by Lee on 2017/7/12.
+ * Created by mobing  on 2017/7/12.
  */
 public class KnowledgeList {
     private List<Knowledge> knowledgeList;

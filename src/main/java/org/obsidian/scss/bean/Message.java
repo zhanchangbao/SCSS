@@ -2,7 +2,7 @@ package org.obsidian.scss.bean;
 
 
 /**
- * Created by Lee on 2017/7/7.
+ * Created by mobing  on 2017/7/7.
  */
 public class Message<T> {
 

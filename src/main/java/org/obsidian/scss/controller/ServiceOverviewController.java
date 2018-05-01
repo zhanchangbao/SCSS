@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * Created by Lee on 2017/7/26.
+ * Created by mobing  on 2017/7/26.
  */
 @Controller
 @RequestMapping("/service")

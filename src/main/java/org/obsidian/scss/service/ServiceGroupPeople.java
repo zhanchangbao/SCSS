@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.List;
 
 /**
- * Created by Lee on 2017/9/7.
+ * Created by mobing  on 2017/9/7.
  */
 @Service
 public class ServiceGroupPeople {

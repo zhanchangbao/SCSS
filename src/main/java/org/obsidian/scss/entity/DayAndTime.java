@@ -1,7 +1,7 @@
 package org.obsidian.scss.entity;
 
 /**
- * Created by hp on 2017/7/14.
+ * Created by mobing  on 2017/7/14.
  */
 public class DayAndTime {
     public long time;//时间戳

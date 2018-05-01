@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.List;
 
 /**
- * Created by hp on 2017/7/16.
+ * Created by mobing  on 2017/7/16.
  */
 @Service
 public class KnowledgeKeywordServiceImpl implements KnowledgeKeywordService {

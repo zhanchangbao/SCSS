@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.ChatLog;
 import java.util.List;
 
 /**
- * Created by Lee on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 public class TransferSignal {
 

@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.Client;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 public class SearchClientByNameResp {
     private List<Client> clientList;

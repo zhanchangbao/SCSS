@@ -21,7 +21,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import java.io.IOException;
 
 /**
- * Created by hp on 2017/7/15.
+ * Created by mobing  on 2017/7/15.
  */
 @ContextConfiguration("classpath:spring/spring-*.xml")
 @RunWith(SpringJUnit4ClassRunner.class)

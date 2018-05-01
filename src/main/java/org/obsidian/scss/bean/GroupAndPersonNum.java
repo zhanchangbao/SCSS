@@ -4,7 +4,7 @@ import org.obsidian.scss.entity.ServiceGroup;
 import org.obsidian.scss.service.ServiceGroupService;
 
 /**
- * Created by hp on 2017/7/20.
+ * Created by mobing  on 2017/7/20.
  */
 public class GroupAndPersonNum {
     public ServiceGroup serviceGroup;

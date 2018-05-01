@@ -17,7 +17,7 @@ import java.sql.Time;
 import java.util.*;
 
 /**
- * Created by hp on 2017/7/31.
+ * Created by mobing  on 2017/7/31.
  */
 @Controller
 public class detailView {

@@ -6,7 +6,7 @@ import org.obsidian.scss.entity.Keyword;
 import org.obsidian.scss.entity.KeywordAndHeat;
 
 /**
- * Created by hp on 2017/7/14.
+ * Created by mobing  on 2017/7/14.
  */
 public class OverViewInfo {
     public int onlineServer;

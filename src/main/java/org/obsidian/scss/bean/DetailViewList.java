@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.AccessAndNumDuring;
 import java.util.List;
 
 /**
- * Created by hp on 2017/8/1.
+ * Created by mobing  on 2017/8/1.
  */
 public class DetailViewList {
     long conversationCount;

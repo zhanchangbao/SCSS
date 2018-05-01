@@ -1,7 +1,7 @@
 package org.obsidian.scss.service;
 
 /**
- * Created by Lee on 2017/7/9.
+ * Created by mobing  on 2017/7/9.
  */
 public interface KeyService {
 

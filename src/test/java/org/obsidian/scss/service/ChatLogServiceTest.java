@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import static org.junit.Assert.*;
 
 /**
- * Created by Lee on 2017/7/13.
+ * Created by mobing  on 2017/7/13.
  */
 @ContextConfiguration("classpath:spring/spring-*.xml")
 @RunWith(SpringJUnit4ClassRunner.class)

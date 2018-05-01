@@ -8,7 +8,7 @@ import java.security.acl.Group;
 import java.util.*;
 
 /**
- * Created by Lee on 2017/7/15.
+ * Created by mobing  on 2017/7/15.
  */
 public interface GroupWordService {
 

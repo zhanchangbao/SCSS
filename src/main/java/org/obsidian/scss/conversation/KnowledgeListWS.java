@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.Vector;
 
 /**
- * Created by Lee on 2017/7/12.
+ * Created by mobing  on 2017/7/12.
  */
 @ServerEndpoint(value = "/knowledgeListWS", configurator = SpringConfigurator.class)
 public class KnowledgeListWS {

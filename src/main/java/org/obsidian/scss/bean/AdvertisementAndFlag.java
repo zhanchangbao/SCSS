@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.Advertisement;
 import org.obsidian.scss.entity.Flag;
 
 /**
- * Created by hp on 2017/7/18.
+ * Created by mobing  on 2017/7/18.
  */
 public class AdvertisementAndFlag {
     public Advertisement advertisement;

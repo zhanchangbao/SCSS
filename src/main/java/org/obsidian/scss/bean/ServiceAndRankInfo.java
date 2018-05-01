@@ -4,7 +4,7 @@ import org.obsidian.scss.entity.*;
 
 import java.util.*;
 /**
- * Created by hp on 2017/8/1.
+ * Created by mobing  on 2017/8/1.
  */
 public class ServiceAndRankInfo {
     public CustomerService customerService;

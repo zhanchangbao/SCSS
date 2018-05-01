@@ -22,7 +22,7 @@ import java.util.*;
 import java.util.concurrent.PriorityBlockingQueue;
 
 /**
- * Created by Lee on 2017/7/8.
+ * Created by mobing  on 2017/7/8.
  */
 @Service
 public class GroupQueue implements Serializable {

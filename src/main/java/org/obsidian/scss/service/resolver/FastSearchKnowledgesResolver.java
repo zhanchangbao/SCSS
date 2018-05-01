@@ -18,7 +18,7 @@ import java.lang.reflect.Type;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/18.
+ * Created by mobing  on 2017/7/18.
  */
 @Service
 public class FastSearchKnowledgesResolver implements ContentResolver {

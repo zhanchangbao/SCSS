@@ -1,7 +1,7 @@
 package org.obsidian.scss.bean;
 
 /**
- * Created by Administrator on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 public class DeleteTag {
     private int clientId;

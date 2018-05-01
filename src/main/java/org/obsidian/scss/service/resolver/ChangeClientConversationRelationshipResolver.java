@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 @Service
 public class ChangeClientConversationRelationshipResolver implements ContentResolver {

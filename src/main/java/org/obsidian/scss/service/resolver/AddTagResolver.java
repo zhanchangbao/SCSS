@@ -13,7 +13,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.lang.reflect.Type;
 
 /**
- * Created by Administrator on 2017/7/17.
+ * Created by mobing  on 2017/7/17.
  */
 @Service
 public class AddTagResolver implements ContentResolver {

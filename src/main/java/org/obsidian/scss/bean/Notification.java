@@ -1,7 +1,7 @@
 package org.obsidian.scss.bean;
 
 /**
- * Created by Lee on 2017/7/19.
+ * Created by mobing  on 2017/7/19.
  */
 public class Notification {
     private String title;

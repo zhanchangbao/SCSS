@@ -5,7 +5,7 @@ import org.obsidian.scss.entity.NotificationObjectType;
 import org.obsidian.scss.entity.NotificationType;
 
 /**
- * Created by hp on 2017/7/19.
+ * Created by mobing  on 2017/7/19.
  */
 public class NotificationAndTypeAndObjectType {
     public String type;

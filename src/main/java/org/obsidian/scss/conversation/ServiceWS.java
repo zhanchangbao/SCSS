@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Vector;
 
 /**
- * Created by Lee on 2017/7/12.
+ * Created by mobing  on 2017/7/12.
  */
 @ServerEndpoint(value="/ServiceWS", configurator = SpringConfigurator.class)
 public class ServiceWS implements WebSocket {

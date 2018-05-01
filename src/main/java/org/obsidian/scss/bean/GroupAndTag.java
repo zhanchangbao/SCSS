@@ -4,7 +4,7 @@ import org.obsidian.scss.entity.GroupWord;
 import org.obsidian.scss.entity.ServiceGroup;
 import  java.util.*;
 /**
- * Created by hp on 2017/7/30.
+ * Created by mobing  on 2017/7/30.
  */
 public class GroupAndTag {
     public ServiceGroup serviceGroup;

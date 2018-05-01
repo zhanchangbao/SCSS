@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Lee on 2017/7/9.
+ * Created by mobing  on 2017/7/9.
  * 字典树，存储与知识库对应的关键词，以及关键词编号
  */
 public class Trie {

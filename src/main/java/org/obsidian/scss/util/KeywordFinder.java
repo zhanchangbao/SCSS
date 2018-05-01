@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * Created by Lee on 2017/7/9.
+ * Created by mobing  on 2017/7/9.
  * 根据内容用字典树匹配关键词
  */
 public class KeywordFinder {

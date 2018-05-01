@@ -3,7 +3,7 @@ package org.obsidian.scss.bean;
 import java.util.List;
 
 /**
- * Created by Administrator on 2017/7/27.
+ * Created by mobing  on 2017/7/27.
  */
 public class ClientDetailResp2 extends ClientDetailResp{
 

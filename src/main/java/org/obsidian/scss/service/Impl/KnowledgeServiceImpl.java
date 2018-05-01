@@ -17,7 +17,7 @@ import org.springframework.transaction.annotation.Transactional;
 import java.util.*;
 
 /**
- * Created by Lee on 2017/7/9.
+ * Created by mobing  on 2017/7/9.
  */
 @Service
 public class KnowledgeServiceImpl implements KnowledgeService{

@@ -23,7 +23,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by Lee on 2017/7/12.
+ * Created by mobing  on 2017/7/12.
  */
 @Service
 public class ClientChatResolver implements ContentResolver {

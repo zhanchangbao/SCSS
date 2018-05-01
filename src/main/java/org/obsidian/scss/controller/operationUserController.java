@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import javax.servlet.http.HttpSession;
 
 /**
- * Created by hp on 2017/7/25.
+ * Created by mobing  on 2017/7/25.
  */
 @Controller
 public class operationUserController {
